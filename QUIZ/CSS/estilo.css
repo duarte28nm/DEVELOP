@@ -1,0 +1,159 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a{
+	text-decoration: none;
+	color: #fff;
+}
+
+body{
+background-color:aquamarine;
+font-family: Verdana;
+font-size: 100%;
+text-align: center;
+
+}
+
+h3{
+text-align: left;
+
+}
+
+.table {
+
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.container {
+	margin: auto;
+	width: 1200px;
+	margin-top: 1px;
+	padding: 10px;
+}
+
+nav{
+	width: 300px;
+	height: 1000px;
+	background-color:darkviolet;
+	float: left;
+	box-sizing: border-box;
+	padding: 10px;
+    text-align: center;
+}
+
+section {
+	width: 870px;
+	height: 1000px;
+	margin-left: 10px;
+	float: left;
+	background-color:#fff;
+	box-sizing: border-box;
+	padding-left: : 10px;
+    text-align: center;
+    
+}
+
+.branco1 {
+    width: 870px;
+	height: 650px;
+	margin-left: 10px;
+	background-color:#fff;
+	box-sizing: border-box;
+	padding-left: : 10px;
+}
+
+.branco3 {
+    width: 870px;
+	height: 650px;
+	margin-left: 10px;
+	background-color:#fff;
+	box-sizing: border-box;
+	padding-left: : 10px;
+}
+
+.branco4 {
+    width: 870px;
+	height: 1350px;
+	margin-left: 10px;
+	background-color:#fff;
+	box-sizing: border-box;
+	padding-left: : 10px;
+}
+
+
+
+
+ul.menu {
+	list-style-type: none;
+}
+
+ul.menu li{
+	width: 250px;
+	height: 50px;
+	line-height: 50px;
+	background-color:darkcyan;
+	color:#fff;
+	margin-top: 5px;
+	box-sizing: border-box;
+	padding-left: : 10px;
+}
+
+.btn {
+	width: 100px;
+	height: 30px;
+	border: 1px solid #ddd;
+	background-color: #2a578b;
+	color: #fff;
+	cursor: pointer;
+}
+
+.box {
+    width: 1000px;
+    
+}
+
+.roxo1 {
+    width: 300px;
+	height: 650px;
+	background-color:darkviolet;
+	float: left;
+	box-sizing: border-box;
+	padding: 10px;
+}
+
+
+.roxo3 {
+    width: 300px;
+	height: 650px;
+	background-color:darkviolet;
+	float: left;
+	box-sizing: border-box;
+	padding: 10px;
+}
+
+.roxo4 {
+    width: 300px;
+	height: 1350px;
+	background-color:darkviolet;
+	float: left;
+	box-sizing: border-box;
+	padding: 10px;
+}
+
+.botton {
+    width: 250px;
+	height: 50px;
+	line-height: 50px;
+	background-color:darkcyan;
+	color:#fff;
+	margin-top: 5px;
+	box-sizing: border-box;
+	padding-left: : 10px;
+}
+
+
+

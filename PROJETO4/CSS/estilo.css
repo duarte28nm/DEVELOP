@@ -1,0 +1,39 @@
+/*ESTRUTURA DO SITE*/
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #fff url(../img/topo.png) repeat-x;
+}
+
+.container{
+	width: 750px;
+	margin: 0 auto;
+	padding: 
+}
+
+.topo{
+	color: white;
+	height: 150px;
+	margin-top: 35px;
+	padding-top: 25px;
+	background: url(../img/v.png) no-repeat right top;
+}
+
+.logo{
+	height: 150px;
+	margin-top: -25px;
+	padding-top: 25px;
+	background: url(../img/logo.jpg) no-repeat left top;
+}
+
+/*BARRA DE NAVEGAÇÃO*/
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+
+}
