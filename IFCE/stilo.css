@@ -1,0 +1,13 @@
+h2.cor{
+    font-size: 1.6em;
+    color: darkmagenta;
+}
+
+p.cor{
+    color: darkblue;
+    font-size: 1.2em;
+}
+
+.cor{
+    font-family: monospace;
+}
